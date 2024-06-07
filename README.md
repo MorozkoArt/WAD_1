@@ -1,4 +1,4 @@
-Lab work on the subject of Windows Application Development number 1
+Lab work on the subject of Windows Application Development number 1 УСЛОВИЕ
 
 Скопировать интерфейс
 public interface IPerson
